@@ -3,7 +3,9 @@
 Spam SMS Detection is a machine learning project that classifies SMS messages as spam or not spam (ham). The project uses Natural Language Processing (NLP) techniques and various machine learning models to analyze text messages and improve classification accuracy.
 
 ## Dataset
-Dataset used: Kaggle - SMS Spam Collection
+Dataset used: Kaggle - SMS Spam Collection\
+[Spam SMS Detection Notebook](https://www.kaggle.com/code/abdullahhamadalmousa/using-multiple-models-multiple-techniques)
+
 
 Text: The SMS message content
 Label: Spam (1) or Ham (0)
